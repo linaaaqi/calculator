@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+A new calculator project write by Flutter.
 
 ## Getting Started
 
@@ -14,3 +14,22 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Run the demo
+
+First, run the pub get commend.
+
+```shell
+flutter pub get
+```
+
+Second, run the run commend.
+
+```shell
+flutter run
+```
+
+## Preview
+
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="300" src="https://user-images.githubusercontent.com/13404752/120898960-de60a300-c65f-11eb-85a5-1fbfb2ded620.png" alt="Vue logo"></a></p>
