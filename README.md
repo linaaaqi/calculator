@@ -34,4 +34,4 @@ flutter run
 
 ## Preview
 
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="300" src="https://user-images.githubusercontent.com/13404752/120898960-de60a300-c65f-11eb-85a5-1fbfb2ded620.png" alt="Vue logo"></a></p>
+<p align="center"><img width="300" src="https://user-images.githubusercontent.com/13404752/120898960-de60a300-c65f-11eb-85a5-1fbfb2ded620.png" alt="Preview Image"></p>
