@@ -1,6 +1,8 @@
-# calculator
+# Flutter Calculator
 
 A new calculator project write by Flutter.
+
+The UI Design from Neumorphism UI
 
 ## Getting Started
 
